@@ -18,7 +18,7 @@ Through the analysis of game sale data, with a specific focus on Nintendo sales,
 ## RESULT 
 this analysis allows us to determine the most popular genre of games by Nintendo, providing valuable insights for strategic decision-making and maximizing business potential.
 
-# Data analaysis 
+## Data analaysis 
  video_game.ipynb
 
 ## Power Bi 
