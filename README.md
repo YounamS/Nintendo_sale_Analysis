@@ -19,7 +19,7 @@ Through the analysis of game sale data, with a specific focus on Nintendo sales,
 this analysis allows us to determine the most popular genre of games by Nintendo, providing valuable insights for strategic decision-making and maximizing business potential.
 
 ## Data analaysis 
- video_game.ipynb
+[a relative link]( video_game.ipynb)
 
 ## Power Bi 
 ![Nintendo](https://github.com/YounamS/Python_Projects-Panda-Numpy-Matplotlib/assets/40123305/871e4561-1636-4ef9-a6a4-a2f12159e624)
